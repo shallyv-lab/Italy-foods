@@ -1,29 +1,17 @@
-body{
-    font-family: sans-serif;
-}
-.two{
-    width:50vw ;
-    padding: 2%;
-}
 .two img{
-    width: 20vw;
-    border-radius:25%,0,25%,0;
-    text-align: center; 
-    display: flex;
-    align-items: center;
+    width:40vw ;
+    height: 21vw;
+    font-family: sans-serif;
     padding: 2%;
-}
-.one{
- width:50vw ;
-padding: 2%;
-  
-}
-.one img{
-
-    width: 20vw;
-    border-radius:25%,0,25%,0;
-    text-align:center ;
+    text-align: center;
     display: flex;
-    align-items: center;
-    padding:2%;
+    float: ;
+    padding: 3%;
+}
+.footer{
+    float:center;
+    padding:5;
+}
+#course{
+    display: flex;
 }
