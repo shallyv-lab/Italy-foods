@@ -1,4 +1,32 @@
 #testimonial img{
-    height: 200px;
-    width: 200px;
+  background-color: aqua;
+  background: fixed purple;
+  padding: 20px;
+  border-radius:75%;
+  height:100px;
+  width: 100px; 
 }
+#testimonial p{
+  color:blue;
+  justify-content: center;
+  text-decoration-color: blue;
+  text-shadow: 0cqmin;
+  width: 20vw;
+}
+#testimonial{
+  display: flex;
+  color: darkmagenta;
+}
+.header h2{
+  color:red;
+  align-content: center;
+}
+.header h3{
+  color: blac;
+  color: chartreuse;
+}
+.test-sect{
+  display: flex;
+  padding: 1%;
+}
+
