@@ -1,6 +1,37 @@
 body{
     font-family: sans-serif;
 }
+
 #about{
     display: flex;
 }
+
+#nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    background-color: yellowgreen;
+    padding: 2%;
+    text-transform: capitalize;
+}
+#nav a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+#home{
+    background-image:linear-gradient(rgba(0, 17, 255, 0.413),rgba(17, 0, 255, 0.395),rgba(17, 0, 255, 0.372)),url("https://images.pexels.com/photos/6937435/pexels-photo-6937435.jpeg");
+    height: 80vw;
+    margin: 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 0%;
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+}
+#home h2{
+    padding-top: 10%;
+}
+    
+
+
