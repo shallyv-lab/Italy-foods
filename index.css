@@ -35,3 +35,57 @@ body{
     
 
 
+#testimonial img{
+  background-color: aqua;
+  background: fixed gold;
+  padding: 15px;
+  border-radius:11%;
+  height:120px;
+  width: 120px; 
+  border: 3px;
+  font-style: italic;
+  border-style: solid;
+}
+body{
+  font-family: sans-serif;
+}
+#testimonial p{
+  color:fuchsia;
+  justify-content: center;
+  text-decoration-color: blue;
+  text-shadow: 0cqmin;
+  width: 20vw;
+  border: 3px;
+  font-style: italic;
+  border-style: solid;
+
+}
+#testimonial{
+  display: flex;
+  color: red;
+  text-underline-offset: initial;
+  justify-content: space-around;
+}
+.header h2{
+  color:red;
+  align-content: center;
+  text-align: center;
+}
+.header h3{
+  color: blac;
+  color: chartreuse;
+  text-align: center;
+}
+.header h4{
+  color: darkorange;
+  text-align: center;
+}
+  
+
+.test-sect{
+  display: flex;
+  padding: 1%;
+  color: red;
+  border: 4px;
+}
+
