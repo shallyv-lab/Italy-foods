@@ -1,17 +1,29 @@
 .two img{
-    width:40vw ;
-    height: 21vw;
+    width:vw ;
+    height: 20vw;
     font-family: sans-serif;
     padding: 2%;
     text-align: center;
     display: flex;
-    float: ;
+    float: inline-end;
     padding: 3%;
+    border-color: black;
 }
-.footer{
-    float:center;
+#footer{
+    text-align:center;
     padding:5;
+    text-decoration: underline;
+    background-color: aqua;
 }
 #course{
     display: flex;
+    text-align: center;
+    
+}#contact{
+    text-align: center;
+    background-color: aqua;
+    text-decoration: underline;
+}
+body{
+    background-color: yellowgreen;
 }
