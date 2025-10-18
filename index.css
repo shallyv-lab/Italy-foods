@@ -1,10 +1,30 @@
 body{
     font-family: sans-serif;
+    background-color: yellowgreen;
+}
+#about img{
+    color:rgb(226, 43, 198); 
+    background-color: white;
+    font-family: sans-serif;
+    text-align: center;
+    border-radius: 15%;
 }
 #about{
     display: flex;
-    color:rgb(226, 43, 198); 
-    justify-content: flex-end;
-    background-color: white;
-    font-family: sans-serif;
 }
+#about p{
+    color:aqua;
+    text-align: center;
+    margin-top: 5%;
+}
+#about p{
+    color: black;  
+  
+}
+.header h1{
+    color: black;
+    text-align: center;
+    text-decoration: dashed;
+}
+
+    
