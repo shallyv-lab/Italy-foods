@@ -5,28 +5,39 @@ body{
     display: flex;
     justify-content: space-around;
     list-style: none;
-    background-color: yellowgreen;
+    background-color: black;
     padding: 2%;
     text-transform: capitalize;
+    margin-bottom: 0%
 }
 #nav a{
     text-decoration: none;
-    color: antiquewhite;
+    color: white;
 }
 #home{
-    background-image:linear-gradient(rgba(0, 17, 255, 0.413),rgba(17, 0, 255, 0.395),rgba(17, 0, 255, 0.372)),url("https://images.pexels.com/photos/6937435/pexels-photo-6937435.jpeg");
-    height: 80vw;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.438),rgba(0, 0, 0, 0.509),rgba(0, 0, 0, 0.518)),url("https://images.pexels.com/photos/18835113/pexels-photo-18835113.jpeg");
+    height: 60vw;
     margin: 0%;
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: 0%;
-    color: #fff;
+    color: gainsboro;
     text-align: center;
     font-family: sans-serif;
 }
 #home h2{
     padding-top: 10%;
+    text-decoration-line: underline;
 }
+h2{
+    color: black;
+}
+
+
+
+
+    
+
     
 
     
