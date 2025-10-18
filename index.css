@@ -29,9 +29,92 @@ display: flex;
 justify-content: space-around;
 
 }
- h1{
-    padding-top: 0%;
-    text-transform: capitalize;
-    text-align: center;
-    text-decoration: underline;
+
 }
+
+#about{
+    display: flex;
+}
+
+#nav ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    background-color: black;
+    padding: 2%;
+    text-transform: capitalize;
+    margin-bottom: 0%
+}
+#nav a{
+    text-decoration: none;
+    color: white;
+}
+#home{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.438),rgba(0, 0, 0, 0.509),rgba(0, 0, 0, 0.518)),url("https://images.pexels.com/photos/18835113/pexels-photo-18835113.jpeg");
+    height: 60vw;
+    margin: 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 0%;
+    color: gainsboro;
+    text-align: center;
+    font-family: sans-serif;
+}
+#home h2{
+    padding-top: 10%;
+    text-decoration-line: underline;
+}
+
+
+#testimonial img{
+  background-color: aqua;
+  background: fixed gold;
+  padding: 15px;
+  border-radius:11%;
+  height:120px;
+  width: 120px; 
+  border: 3px;
+  font-style: italic;
+  border-style: solid;
+}
+
+#testimonial p{
+  color:fuchsia;
+  justify-content: center;
+  text-decoration-color: blue;
+  text-shadow: 0cqmin;
+  width: 20vw;
+  border: 3px;
+  font-style: italic;
+  border-style: solid;
+
+}
+#testimonial{
+  display: flex;
+  color: red;
+  text-underline-offset: initial;
+  justify-content: space-around;
+}
+.header h2{
+  color:red;
+  align-content: center;
+  text-align: center;
+}
+.header h3{
+  color: blac;
+  color: chartreuse;
+  text-align: center;
+}
+.header h4{
+  color: darkorange;
+  text-align: center;
+}
+  
+
+.test-sect{
+  display: flex;
+  padding: 1%;
+  color: red;
+  border: 4px;
+}
+
