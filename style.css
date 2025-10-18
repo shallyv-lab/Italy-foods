@@ -1,32 +1,53 @@
 #testimonial img{
   background-color: aqua;
-  background: fixed purple;
-  padding: 20px;
-  border-radius:75%;
-  height:100px;
-  width: 100px; 
+  background: fixed gold;
+  padding: 15px;
+  border-radius:11%;
+  height:120px;
+  width: 120px; 
+  border: 3px;
+  font-style: italic;
+  border-style: solid;
+}
+body{
+  font-family: sans-serif;
 }
 #testimonial p{
-  color:blue;
+  color:fuchsia;
   justify-content: center;
   text-decoration-color: blue;
   text-shadow: 0cqmin;
   width: 20vw;
+  border: 3px;
+  font-style: italic;
+  border-style: solid;
+
 }
 #testimonial{
   display: flex;
-  color: darkmagenta;
+  color: red;
+  text-underline-offset: initial;
 }
 .header h2{
   color:red;
   align-content: center;
+  text-align: center;
 }
 .header h3{
   color: blac;
   color: chartreuse;
+  text-align: center;
 }
+.header h4{
+  color: darkorange;
+  text-align: center;
+}
+  
+
 .test-sect{
   display: flex;
   padding: 1%;
+  color: red;
+  border: 4px;
 }
 
